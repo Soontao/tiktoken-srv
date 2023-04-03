@@ -1,0 +1,7 @@
+{
+  "cSpell.words": [
+    "tiktoken"
+  ],
+  "python.formatting.autopep8Args": ["--indent-size=2"],
+  "editor.formatOnSave": true
+}
